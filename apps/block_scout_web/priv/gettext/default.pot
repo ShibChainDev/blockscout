@@ -324,7 +324,7 @@ msgstr ""
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:4
 #, elixir-autogen, elixir-format
 msgid "BlockScout provides analytics data, API, and Smart Contract tools for the %{subnetwork}"
-msgstr ""
+msgstr "🐕 Shibchain unlocks the limitless potential of $SHIB by giving #SHIB_Community access to quality dApps like #NFT, #GameFi, #DeFi"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:153
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:29
@@ -957,7 +957,7 @@ msgstr ""
 #: lib/block_scout_web/views/wei_helpers.ex:78
 #, elixir-autogen, elixir-format
 msgid "Ether"
-msgstr ""
+msgstr "WSHIB"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:211
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:164

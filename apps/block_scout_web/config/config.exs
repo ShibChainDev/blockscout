@@ -33,10 +33,10 @@ config :block_scout_web, BlockScoutWeb.Tracer,
 config :block_scout_web, BlockScoutWeb.Gettext, locales: ~w(en), default_locale: "en"
 
 config :block_scout_web, BlockScoutWeb.SocialMedia,
-  twitter: "PoaNetwork",
-  telegram: "poa_network",
-  facebook: "PoaNetwork",
-  instagram: "PoaNetwork"
+  twitter: "ShibchainGang",
+  telegram: "Shibchain_ann",
+#  facebook: "PoaNetwork",
+  instagram: ""
 
 config :block_scout_web, BlockScoutWeb.Chain.TransactionHistoryChartController,
   # days
