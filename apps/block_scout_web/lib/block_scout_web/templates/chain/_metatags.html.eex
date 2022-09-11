@@ -1,5 +1,5 @@
 <title>
   <%= gettext("%{subnetwork} %{network} Explorer", subnetwork: LayoutView.subnetwork_title(), network: LayoutView.network_title()) %>
 </title>
-<meta name="description" content="<%= gettext "Shibchain is a new blockchain network for SHIB holders and enthusiasts, thereby increasing benefits, promoting the development of SHIB and the SHIB community.", subnetwork: LayoutView.subnetwork_title() %>">
-<meta name="keywords" content="BlockScout, blockchain, api, analytics, address, smart contract, shibchain, shib, shibchainapp, shibnetwork">
+<meta name="description" content="<%= gettext "Shibchain is a layer-1 blockchain network for SHIB holders and and gives superpowers to DeFi, NFT and Gaming development.", subnetwork: LayoutView.subnetwork_title() %>">
+<meta name="keywords" content="BlockScout, blockchain, api, analytics, address, smart contract, shibchain, shib, shiba inu, shibnetwork">

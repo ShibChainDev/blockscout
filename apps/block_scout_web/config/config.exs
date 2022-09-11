@@ -33,8 +33,8 @@ config :block_scout_web, BlockScoutWeb.Tracer,
 config :block_scout_web, BlockScoutWeb.Gettext, locales: ~w(en), default_locale: "en"
 
 config :block_scout_web, BlockScoutWeb.SocialMedia,
-  twitter: "ShibchainGang",
-  telegram: "Shibchain_ann",
+  twitter: "ShibchainArmy",
+  telegram: "ShibchainArmy",
 #  facebook: "PoaNetwork",
   instagram: ""
 

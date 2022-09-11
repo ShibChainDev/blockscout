@@ -10,11 +10,11 @@ defmodule BlockScoutWeb.LayoutView do
   @default_other_networks [
     %{
       title: "ShibChain",
-      url: "https://explorer.shibchain.app"
+      url: "https://explorer.shibchain.net"
     },
     %{
       title: "ShibChain",
-      url: "https://explorer-testnet.shibchain.app",
+      url: "https://explorer-testnet.shibchain.net",
       test_net?: true
     },
   ]

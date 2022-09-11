@@ -168,8 +168,8 @@ healthy_blocks_period =
   |> :timer.minutes()
 
 config :explorer,
-  coin: System.get_env("COIN") || "WSHIB",
-  coin_name: System.get_env("COIN_NAME") || System.get_env("COIN") || "WSHIB",
+  coin: System.get_env("COIN") || "SC",
+  coin_name: System.get_env("COIN_NAME") || System.get_env("COIN") || "SC",
   allowed_evm_versions:
     System.get_env("ALLOWED_EVM_VERSIONS") ||
       "homestead,tangerineWhistle,spuriousDragon,byzantium,constantinople,petersburg,istanbul,berlin,london,default",
